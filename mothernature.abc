@@ -1,5 +1,5 @@
 X: 1
-T: mother natures son [solo-harp] (2:46)
+T: MotherNature [solo-harp] (2:46)
 Z: Transcribed using LotRO MIDI Player: http://lotro.acasylum.com/midi
 %  Original file: the_beatles-mother_natures_son.mid
 %  Transpose: -11
@@ -168,7 +168,7 @@ z/8 [^D3/4^g/2] z/4 [^g3/8^d9/8^D,3/4] ^a/4 [^g5/8^D3/4] z/8
 [^g3/2c3/2z3/8] [=F/2z3/8] ^D3/4 [=g35/8^c7^a35/8^D7] 
 
 X: 2
-T: mother natures son [flute] (2:45)
+T: MotherNature [flute] (2:45)
 Z: Transcribed using LotRO MIDI Player: http://lotro.acasylum.com/midi
 %  Original file: the_beatles-mother_natures_son.mid
 %  Transpose: -11
@@ -208,7 +208,7 @@ z23/8 D5/4 z/8 C/2 G,5/8 ^A,13/8 G,11/8 [F,/2z3/8] [G,z7/8]
 ^G3/8 z/8 ^G5/8 z/8 ^F3/4 z/8 [=F/2z3/8] ^D5/8 z/8 ^D7/2 
 
 X: 3
-T: mother natures son [lute+harp] (2:46)
+T: MotherNature [lute+harp] (2:46)
 Z: Transcribed using LotRO MIDI Player: http://lotro.acasylum.com/midi
 %  Original file: the_beatles-mother_natures_son.mid
 %  Transpose: -11
@@ -350,7 +350,7 @@ z/8 [^D3/4^g/2] z/4 [^g3/8^d9/8^D,3/4] ^a/4 [^g5/8^D3/4] z/8
 [^d11/8c3/2^D,3/2] z/8 [^D13/8z/8] [^g3/2c3/2] [=g35/8^c7^a35/8^D7] 
 
 X: 4
-T: mother natures son [lute] (2:45)
+T: MotherNature [lute] (2:45)
 Z: Transcribed using LotRO MIDI Player: http://lotro.acasylum.com/midi
 %  Original file: the_beatles-mother_natures_son.mid
 %  Transpose: -11
@@ -436,7 +436,7 @@ z/4 [g3/4^d5/8] z3/4 [^d/2g/2] z/8 [^d/2g/2] z/8 [g3/4z/8] ^d5/8 z3/4
 [=g35/8^a35/8] 
 
 X: 5
-T: mother natures son [harp] (2:46)
+T: MotherNature [harp] (2:46)
 Z: Transcribed using LotRO MIDI Player: http://lotro.acasylum.com/midi
 %  Original file: the_beatles-mother_natures_son.mid
 %  Transpose: -11
