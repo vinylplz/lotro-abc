@@ -93,7 +93,34 @@ D/4 A/2 [^G/2E,] [^G/4D/4] [^G/2d/2D/2z/4] [E,z/4] [D/4c'/4]
 [=G/2A] [G/4d/2D/4] [G/2D/2z/4] [A^f/4] [D/4e/2] [G/2z/4] [d3/4z/4]
 [^F/2D/2] [d3/2^F3/2D3/2A,3/2] 
 
+
 X: 2
+T: blackbird [vocal] (2:25)
+Z: Transcribed using LotRO MIDI Player: http://lotro.acasylum.com/midi
+%  Original file: the_beatles-blackbird.mid
+%  Transpose: -5
+L: 1/4
+Q: 96
+K: C
+
+z7 d/2 d/2 d/4 d/4 d/4 c/4 d/4 a3/4 a3 z ^f/4 e/4 d/2 e/4 e/4 e d/4
+g3/4 a/4 ^f3/4 z7/2 e3/4 ^f3/4 d7/2 z d/2 d/2 d3/4 e/4 ^f/2 e/4 z/4
+d/4 B/2 e3/4 d/2 ^f/4 e/2 d9/4 z8 d/2 d/2 d/4 d/4 d/4 c/4 d/4 a3/4 a3
+z ^f/4 e/4 d/2 e/4 e/4 e d/4 g3/4 a/4 ^f3/4 z7/2 e3/4 ^f3/4 d7/2 z
+d/2 d/2 d3/4 e/4 ^f/2 e/4 z/4 d/4 B/2 e3/4 d/2 ^f/4 e/4 B/2 d2 g3/2
+d2 d7/2 z g3/2 d2 d5/2 z3/4 d/2 c'/4 a/4 c'3/4 a/4 a/4 g/2 =f/4 c3/4
+d5/2 z51/4 z51/4 z3/2 d/2 d/2 d/4 d/4 d/4 c/4 d/4 a3/4 a3 z ^f/4 e/4
+d/2 e/4 e/4 e d/4 g3/4 a/4 ^f3/4 z7/2 e3/4 ^f3/4 d7/2 z d/2 d/2 d3/4
+e/4 ^f/2 e/4 z/4 d/4 B/2 e3/4 d/2 ^f/4 e/4 B/2 d2 g3/2 d2 d7/2 z g3/2
+d2 d5/2 z3/4 d/2 c'/4 a/4 c'3/4 a/4 a/4 g/2 =f/4 c3/4 d3/2 z51/4
+z17/4 d/2 d/2 d/4 d/4 d/4 c/4 d/4 a3/4 a3 z ^f/4 e/4 d/2 e/4 e/4 e
+d/4 g3/4 a/4 ^f3/4 z7/2 e3/4 ^f3/4 d7/2 z d/2 d/4 d3/4 B/4 ^f/2 e/2
+z/4 d/4 B/2 e3/4 d/2 ^f/4 e/2 d9/4 d/2 d/2 d/2 e/4 d/4 ^f/4 e/2 z/4
+d/4 B/2 d3/4 ^f/2 e/4 d/2 d5/4 B/4 A/4 z/2 d/2 d/4 d3/4 B/4 ^f/2 e/2
+z/4 d/4 B/2 e3/4 d/2 ^f/4 e/2 d9/4 
+
+
+X: 3
 T: blackbird [lute] (2:25)
 Z: Transcribed using LotRO MIDI Player: http://lotro.acasylum.com/midi
 %  Original file: the_beatles-blackbird.mid
@@ -171,28 +198,3 @@ D/4 A/2 [^G/2E] [^G/4D/4] [^G/2D/2z/4] [Ez/4] D/4 ^G/2 [=G/2A]
 [D3/4A,/4] ^F/2 [B/2G] D/2 [A/2^F] D/2 [^G/2E] [^G/4D/4] [^G/2D/2z/4]
 [Ez/4] D/4 ^G/2 [=G/2A] [G/4D/4] [G/2D/2z/4] [Az/4] D/4 G/2 [^F/2D/2]
 [d3/2^F3/2D3/2A,3/2] 
-
-X: 3
-T: blackbird [melody] (2:25)
-Z: Transcribed using LotRO MIDI Player: http://lotro.acasylum.com/midi
-%  Original file: the_beatles-blackbird.mid
-%  Transpose: -5
-L: 1/4
-Q: 96
-K: C
-
-z7 d/2 d/2 d/4 d/4 d/4 c/4 d/4 a3/4 a3 z ^f/4 e/4 d/2 e/4 e/4 e d/4
-g3/4 a/4 ^f3/4 z7/2 e3/4 ^f3/4 d7/2 z d/2 d/2 d3/4 e/4 ^f/2 e/4 z/4
-d/4 B/2 e3/4 d/2 ^f/4 e/2 d9/4 z8 d/2 d/2 d/4 d/4 d/4 c/4 d/4 a3/4 a3
-z ^f/4 e/4 d/2 e/4 e/4 e d/4 g3/4 a/4 ^f3/4 z7/2 e3/4 ^f3/4 d7/2 z
-d/2 d/2 d3/4 e/4 ^f/2 e/4 z/4 d/4 B/2 e3/4 d/2 ^f/4 e/4 B/2 d2 g3/2
-d2 d7/2 z g3/2 d2 d5/2 z3/4 d/2 c'/4 a/4 c'3/4 a/4 a/4 g/2 =f/4 c3/4
-d5/2 z51/4 z51/4 z3/2 d/2 d/2 d/4 d/4 d/4 c/4 d/4 a3/4 a3 z ^f/4 e/4
-d/2 e/4 e/4 e d/4 g3/4 a/4 ^f3/4 z7/2 e3/4 ^f3/4 d7/2 z d/2 d/2 d3/4
-e/4 ^f/2 e/4 z/4 d/4 B/2 e3/4 d/2 ^f/4 e/4 B/2 d2 g3/2 d2 d7/2 z g3/2
-d2 d5/2 z3/4 d/2 c'/4 a/4 c'3/4 a/4 a/4 g/2 =f/4 c3/4 d3/2 z51/4
-z17/4 d/2 d/2 d/4 d/4 d/4 c/4 d/4 a3/4 a3 z ^f/4 e/4 d/2 e/4 e/4 e
-d/4 g3/4 a/4 ^f3/4 z7/2 e3/4 ^f3/4 d7/2 z d/2 d/4 d3/4 B/4 ^f/2 e/2
-z/4 d/4 B/2 e3/4 d/2 ^f/4 e/2 d9/4 d/2 d/2 d/2 e/4 d/4 ^f/4 e/2 z/4
-d/4 B/2 d3/4 ^f/2 e/4 d/2 d5/4 B/4 A/4 z/2 d/2 d/4 d3/4 B/4 ^f/2 e/2
-z/4 d/4 B/2 e3/4 d/2 ^f/4 e/2 d9/4 
