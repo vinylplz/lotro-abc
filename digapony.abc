@@ -1,5 +1,5 @@
 X: 1
-T: dig a pony [vocal-horn] (3:20)
+T: DigAPony [vocal-horn] (3:20)
 Z: Transcribed using LotRO MIDI Player: http://lotro.acasylum.com/midi
 %  Original file: the_beatles-dig_a_pony.mid
 %  Transpose: -2
@@ -45,7 +45,7 @@ z41/8 [f7/8a7/8] [f/4a/4] [f3/4a3/4] [f/4a/4] [f3/4a3/4] [f/4a/4]
 z9/8 [gb] [e5/8a5/8] [d3/8g3/8] [Be] 
 
 X: 2
-T: dig a pony [melody+bass-harp] (3:38)
+T: DigAPony [melody+bass-harp] (3:38)
 Z: Transcribed using LotRO MIDI Player: http://lotro.acasylum.com/midi
 %  Original file: the_beatles-dig_a_pony.mid
 %  Transpose: -2
@@ -242,7 +242,7 @@ z/8 [e/4E/4E,/4] [g3/8G3/8G,3/8] [e3/4E3/4E,3/4] [=d/4=D/4=D,/4]
 [D25/4G25/4G,25/4B5z19/4] d/8 ^f/8 [B/4z/8] c/8 B 
 
 X: 3
-T: dig a pony [melody-harp] (3:38)
+T: DigAPony [melody-harp] (3:38)
 Z: Transcribed using LotRO MIDI Player: http://lotro.acasylum.com/midi
 %  Original file: the_beatles-dig_a_pony.mid
 %  Transpose: -2
@@ -414,7 +414,7 @@ z13/4 [F3/4F,3/4] [A/4=A,/4] [c3/4C3/4] [d/4D/4] [f3/4F3/4] z/8
 [B/4z/8] c/8 B 
 
 X: 4
-T: dig a pony [bass] (3:34)
+T: DigAPony [bass] (3:34)
 Z: Transcribed using LotRO MIDI Player: http://lotro.acasylum.com/midi
 %  Original file: the_beatles-dig_a_pony.mid
 %  Transpose: -2
