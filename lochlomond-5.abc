@@ -1,0 +1,28 @@
+X: 1
+T: lochlomond [trio-lute] (2:01)
+Z: Transcribed using LotRO MIDI Player: http://lotro.acasylum.com/midi
+%  Original file: loch_lomond_(c)werths.mid
+%  Transpose: -16
+%  Tempo factor: 110%
+L: 1/4
+Q: 120
+K: C
+
+z2 G G, ^G, ^A, ^G,7/8 z/8 =G,7/8 ^D, =D, ^D,2 ^G, C ^G, =G, ^G, =G,
+F,2 ^D, G,7/8 z/8 ^A,7/8 ^D ^G,2 ^D,2 [C2F,2] ^A,2 [^A,2^D,2] ^A, ^G,
+=G,7/8 z/8 F,7/8 G,3/2 ^G,/2 ^A, C =D ^D C2 ^G,2 ^A, =D ^A, ^G,7/8
+z/8 =G,7/8 F, G, F, ^D, G, ^A, ^D ^G, ^A, C =D ^D F G =G,7/8 z/8
+^G,7/8 ^A, ^G, =G, ^D, =D, ^D,2 ^G, C ^G, =G, ^G, =G, F,15/8 ^D, G,
+^A, ^D ^G,2 ^D,2 [C2F,2] ^A,2 [^A,15/8^D,15/8] z/8 ^A,7/8 ^G, =G, F,
+G, ^G, ^A, C =D2 C2 ^G,2 ^A,7/8 z/8 D7/8 ^A, ^G, =G, F, G, F, ^D, G,
+^A, ^D ^G, ^A, C =D7/8 z/8 ^D7/8 F G =G, ^G, ^A, ^G, =G, ^D, =D, ^D,2
+^G, C ^G,7/8 z/8 =G,7/8 ^G, =G, F,2 ^D, G, ^A, ^D ^G,2 ^D,2
+[C15/8F,15/8] z/8 ^A,15/8 [^A,3^D,3] z9/8 ^G,9/8 ^D,/2 ^G,/2 C5/8
+^D/2 z9/8 ^G,/2 ^D,5/8 ^G,/2 C/2 [^C5/8^C,9/4] z13/8 ^G, ^D,5/8 ^G,/2
+^D,9/4 ^G, ^D,5/8 ^G,/2 =C/2 ^D5/8 z9/8 ^G, ^D,5/8 ^G,/2 C/2 ^D5/8 z
+^G,5/8 ^D,/2 ^G,5/8 C/2 [^C/2^C,17/8] z13/8 ^G,9/8 ^D,/2 ^G,5/8
+^D,17/8 ^G,9/8 ^D,/2 ^G,5/8 =C/2 ^D/2 z9/8 ^G,5/8 ^G, ^G,9/8 ^G,9/8
+=G, F,5/8 F/2 ^D9/8 =D9/8 ^A, ^D9/8 C9/8 ^G,9/8 ^A, ^D5/8 ^A,/2 =G,/2
+^C5/8 ^A,/2 ^C/2 ^D,5/8 ^G,9/8 ^D,/2 ^G,/2 =C5/8 ^D/2 z9/8 ^G,/2
+^D,/2 ^G,5/8 C/2 [^C5/8^C,19/8] z7/4 ^G,5/4 ^D,3/4 ^G,5/8 z/8 ^D,13/4
+^G,91/8 

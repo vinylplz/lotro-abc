@@ -1,0 +1,32 @@
+X: 1
+T: lochlomond [trio-harp] (1:60)
+Z: Transcribed using LotRO MIDI Player: http://lotro.acasylum.com/midi
+%  Original file: loch_lomond_(c)werths.mid
+%  Transpose: -16
+%  Tempo factor: 110%
+L: 1/4
+Q: 120
+K: C
+
+z2 g ^a [c'2^d31/8^G31/8] c'3/2 ^a3/8 [g2^d4^A4] g/2 ^g/2 ^a
+[^g/2f2^G2] =g3/2 [f/2c2^G2] ^d3/2 [c2^G2^D2] [^A=D2] c7/8 z/8
+[^d15/8=G7/8^D23/8] z/8 ^A7/8 z/8 ^d/2 f3/8 [g/2G] ^a/2 [c'2c^D]
+[=dF] [^a^dG] [g^A^D] [f3/8^d^G29/8] g/8 f/8 g/4 [f25/8z/8] c ^d =d
+[^d2=G2] [^A2=D2] [^A7/8^D31/8] z/8 ^G7/8 ^A3/2 c/2 [^d2=G4] ^A2 ^G
+^A [c2^D2] [^G2=D] F [^A15/8D15/8] z/8 [^A7/8^D31/8] ^G ^A ^G [=G^D3]
+^A ^d [^cG] [=c^G4] =d ^d f [g^A31/8] =d ^d15/8 z/8 [^d31/8^G31/8]
+[^d4^A4] [f2^G2] [c2^G2] [^G2^D2] [^A7/8=D15/8] z/8 ^G7/8 [=G^D3] ^A
+^d [^cG] [=c^D] [=dF] [^dG] [^A^D] [^D^G4] c ^d =d [^d15/8=G15/8] z/8
+[^A15/8=D15/8] [^A^D4] ^G ^A c [^d2=G3] [^A2z] F [^G^D4] ^A c2
+[^G15/8=D7/8] z/8 F7/8 [^A2D2] [^A^D4] ^G ^A ^G [=G^D3] ^A ^d [^cG]
+[=c^G31/8] =d ^d f7/8 z/8 [^a7/8^A31/8] =d ^d2 [^d4^G4] [^d4^A4]
+[f2^G2] [c15/8^G15/8] [^G2^D2] =D2 [=G^D3] ^A ^d [^cG] [=c^D] [=dF]
+[^dG] [^A^D] [^d^G29/8] c7/8 z/8 ^d7/8 =d [^d3=G3] z35/8 ^G/2 c5/8
+z11/4 F/2 ^G/2 ^c5/8 z17/8 ^D5/8 =G/2 ^A/2 G5/8 ^G z9/4 ^G/2 =c5/8
+z13/4 ^G/2 c/2 z11/4 F5/8 ^G/2 ^c/2 z9/4 ^D/2 =G5/8 ^A/2 G/2 ^G9/8
+z17/8 ^G5/8 =c/2 [c9/8^G9/8^D9/8] [^G9/8^D9/8C9/8] [c^G^D]
+[^d9/8^A9/8^D9/8] [^g9/4c9/4] [f^A17/8] =g5/8 ^g/2 [=g9/8^d9/8^A9/8]
+[^dc=G] [f9/8c9/8^G9/8] [f9/8=d9/8^G9/8] [^d17/8^A17/8=G17/8]
+[f9/8^A9/8G9/8] [g9/8^d9/8^A9/8] [^g9/8^d9/8c9/8] z17/8 ^G/2 c5/8
+z11/4 F/2 ^G5/8 ^c5/8 z11/4 ^D3/4 =G3/4 ^A7/8 G7/8 ^G7/8 ^d9/8 =c11/8
+^d3/2 z/8 ^g19/4 

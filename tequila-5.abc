@@ -1,0 +1,47 @@
+X: 1
+T: tequila [trio-clarinet] (2:17)
+Z: Transcribed using LotRO MIDI Player: http://lotro.acasylum.com/midi
+%  Original file: tequila2.mid
+%  Transpose: -12
+%  Tempo factor: 120%
+L: 1/4
+Q: 78
+K: C
+
+z5/2 A/4 c/4 ^D/4 F/4 z/4 F/4 G/4 G/4 G/4 G/4 F/4 ^D/4 z/4 c/4 F/4 z/4
+c/4 z/4 c/4 z/2 ^D/4 z/4 F/4 z/4 G/4 F/4 ^D/4 C/4 z3/4 A/4 c/4 ^D/4
+F/4 z/4 F/4 G/4 G/4 G/4 G/4 F/4 ^D/4 z/4 c/4 F/4 z/4 c/4 z/4 c/4 z/2
+^D/4 z/4 F/4 z/4 G/4 F/4 ^D/4 C/4 z3/4 A/4 c/4 ^D/4 F/4 z/4 F/4 G/4
+G/4 G/4 G/4 F/4 ^D/4 z/4 c/4 F/4 z/4 c/4 z/4 c/4 z/2 ^D/4 z/4 F/4 z/4
+G/4 F/4 ^D/4 C/4 z3/4 A/4 c/4 ^D/4 F/4 z/4 F/4 G/4 G/4 G/4 G/4 F/4
+^D/4 z/4 c/4 F/4 z/4 c/4 z/4 c/4 z/2 ^D/4 z/4 F/4 z/4 G/4 F/4 ^D/4
+C/4 z3/4 A/4 c/4 ^D/4 F/4 z/4 F/4 G/4 G/4 G/4 G/4 F/4 ^D/4 z/4 c/4
+F/4 z/4 c/4 z/4 c/4 z/2 ^D/4 z/4 F/4 z/4 G/4 F/4 ^D/4 C/4 z3/4 A/4
+c/4 ^D/4 F/4 z/4 F/4 G/4 G/4 G/4 G/4 F/4 ^D/4 z/4 c/4 F/4 z/4 c/4 z/4
+c/4 z/2 ^D/4 z/4 F/4 z/4 G/4 F/4 ^D/4 C/4 z3/4 A/4 c/4 ^D/4 F/4 z/4
+F/4 G/4 G/4 G/4 G/4 F/4 ^D/4 z/4 c/4 F/4 z/4 c/4 z/4 c/4 z/2 ^D/4 z/4
+F/4 z/4 G/4 F/4 ^D/4 C/4 z3/4 A/4 c/4 ^D/4 F/4 z/4 F/4 G/4 G/4 G/4
+G/4 F/4 ^D/4 z/4 c/4 F/4 z/4 c/4 z/4 c/4 z/2 ^D/4 z/4 ^D3/8 z/8 ^D/4
+^D/4 [B,5/8F5/8^G5/8d5/8] z/8 [B11/8=D11/8^G11/8f11/8] z3/8
+[A3/4c3/4f3/4a3/4] z/4 [cfac'] z/4 [B11/8D11/8^G11/8f11/8] z3/8
+[A3/4c3/4f3/4a3/4] z/4 [cfac'] z/4 [D11/8^G11/8B11/8f11/8] z3/8
+[A3/4c3/4f3/4a3/4] z3/2 [=G/2B/2d/2] z/2 [G3/8d3/8B3/8] z/8
+[G3/8d3/8B3/8] z/8 [C/4E/4G/4c/4] z/4 F3/8 z/8 G/4 F3/4 z/2 A/4 c/4
+^D/4 F/4 z/4 F/4 G/4 G/4 G/4 G/4 F/4 ^D/4 z/4 c/4 F/4 z/4 c/4 z/4 c/4
+z/2 ^D/4 z/4 F/4 z/4 G/4 F/4 ^D/4 C/4 z3/4 A/4 c/4 ^D/4 F/4 z/4 F/4
+G/4 G/4 G/4 G/4 F/4 ^D/4 z/4 c/4 F/4 z/4 c/4 z/4 c/4 z/2 ^D/4 z/4 F/4
+z/4 G/4 F/4 ^D/4 C/4 z3/4 A/4 c/4 ^D/4 F/4 z/4 F/4 G/4 G/4 G/4 G/4
+F/4 ^D/4 z/4 c/4 F/4 z/4 c/4 z/4 c/4 z/2 ^D/4 z/4 F/4 z/4 G/4 F/4
+^D/4 C/4 z3/4 A/4 c/4 ^D/4 F/4 z/4 F/4 G/4 G/4 G/4 G/4 F/4 ^D/4 z/4
+c/4 F/4 z/4 c/4 z/4 c/4 z/2 ^D/4 z/4 ^D3/8 z/8 ^D/4 ^D/4
+[B,5/8F5/8^G5/8d5/8] z/8 [B11/8=D11/8^G11/8f11/8] z3/8
+[A3/4c3/4f3/4a3/4] z/4 [cfac'] z/4 [B11/8D11/8^G11/8f11/8] z3/8
+[A3/4c3/4f3/4a3/4] z/4 [cfac'] z/4 [D11/8^G11/8B11/8f11/8] z3/8
+[A3/4c3/4f3/4a3/4] z3/2 [=G/2B/2d/2] z/2 [G3/8d3/8B3/8] z/8
+[G3/8d3/8B3/8] z/8 [C/4E/4G/4c/4] z/4 F3/8 z/8 G/4 F3/4 z/2 A/4 c/4
+^D/4 F/4 z/4 F/4 G/4 G/4 G/4 G/4 F/4 ^D/4 z/4 c/4 F/4 z/4 c/4 z/4 c/4
+z/2 ^D/4 z/4 F/4 z/4 G/4 F/4 ^D/4 C/4 z3/4 A/4 c/4 ^D/4 F/4 z/4 F/4
+G/4 G/4 G/4 G/4 F/4 ^D/4 z/4 c/4 F/4 z/4 c/4 z/4 c/4 z/2 ^D/4 z/4 F/4
+z/4 G/4 F/4 ^D/4 C/4 z3/4 A/4 c/4 ^D/4 F/4 z/4 F/4 G/4 G/4 G/4 G/4
+F/4 ^D/4 z/4 c/4 F/4 z/4 c/4 z/4 c/4 z/2 ^D/4 z/4 F/4 z/4 G/4 F/4
+^D/4 C/4 z83/8 z83/8 z2 c3/8 z/8 f/4 c3/4 

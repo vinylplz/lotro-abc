@@ -1,0 +1,134 @@
+X: 1
+T: Honesty (3:13)
+Z: Transcribed by LotRO MIDI Player: http://lotro.acasylum.com/midi
+%  Original file: Honesty.mid
+%  Transpose: -10
+L: 1/4
+Q: 120
+K: C
+
+z6 [C,2G,2] z [C2^A,2^D2z3/2] G z/2 [^D3/2CG3/2] z/2 [^G,z3/4] ^G/2
+z/4 [B,/2F3/2] z/4 =A,/2 z/4 [=G,z3/8] F,/4 z/8 [E/2E,/4] z/8 D,/4
+z/8 [CG,EC,2z3/4] c/4 z/8 [c5/8z3/8] [CG,Ez3/8] c/2 z/4 B/4 z/8
+[B/2CA,FF,2] z/4 A/4 z/8 A3/8 [F/2C/2A] z/4 C/2 z/4 [=D3/8B,=GG,3/2]
+[D5/8z3/8] B/4 z/8 c/4 z/8 [B3/4DB,G] [F,/2z3/8] A/4 z/8
+[A3/8DB,G3/8E,2] G3/4 z3/8 [D/2G,/2G/2] z/4 G,/2 z/4 [CA,F,2Fz3/4]
+A/4 z/8 A/4 z/8 [A/2CA,F] z/4 G/4 z/8 [G7/8z3/8] [CG,A,2Ez3/4] A/2
+z/4 [EC3/4G,z3/8] D/4 z/8 C/4 z/8 D3/8 [DA,B,2^F] z/2 [DA,^F] z/2
+[=FCD,A] z/8 D3/8 [E/2B,/2G,G/2] z/4 [F/2D/2A,/2G/2] z/4
+[EC3/8G,C,2G] [C5/8z3/8] c/4 z/8 [c5/8z3/8] [ECG,Gz3/8] c/2 z/4 B/4
+z/8 [B/4EDA,D,2G] z/8 A/4 z/8 A/2 z/4 [DA,Fz3/8] G/4 z/8 [A/2z3/8]
+A,/4 z/8 [BGDB,D,z3/4] c/4 z/8 [B7/8z3/8] [^F^DA,^D,A3/4] A/4 z/8
+A3/8 [GEB,E,2] z/2 G,/4 z/8 B,/4 z/8 E/4 z/8 [C/4G/4] z/8
+[A/4CA,F,2=F] z/8 A3/4 z3/8 [B/2CA,F] z/4 c/4 z/8 B/4 z/8
+[^F^D^CB,2Az3/4] ^d/4 z/8 [e7/8z3/8] [^F^D^CAz3/4] ^f/4 z/8
+[e35/8z3/8] [E=DA,E,2A] z/2 [EDA,Az3/4] E,/2 z/4 [ED^G,E,2^G] z/2
+[E/2D/2A,/2A/2] z/4 [E/2D/2B,/2B/2] z/4 [e3/2E=CA,F,2A3/2] z/2
+[ECA,Az3/4] =d/4 z/8 [=f11/8z3/8] [=FDB,=G,2AB2] z/2 [FDB,A] z/8 B/4
+z/8 [b/2^GEB,^G,2B3/2] z/4 ^g/4 z/8 [e7/8z3/8] [^GEB,Bz3/4] d/4 z/8
+d3/8 [c2ECA,A] z/2 [D/4B,/4=G,A/4] z/8 E/4 z/8 [D/2B,/2A/2] z/4
+[a/2FCA,F,2A] z/4 f/2 z/4 [d/2FCA,A] z/4 c/2 z/4 [BDB,G,=Gd2] z/2
+[A/2CA,G,F] z/4 [A3/2z3/4] [CG,C,2Ee2z3/4] [G7/4z3/4] G,/4 z/8 C/4
+z/8 D/4 z/8 E/4 z/8 E,3/4 [^G,/2E/2D/2^G/2E,5/4] z/4
+[E/2D/2A,/2A/2^F,/2^F/2] z/4 [E/2D/2B,/2B/2^G,/2^G/2] z/4
+[e3/2ECA,=F,2A] z/2 [ECA,Az3/4] d/4 z/8 [f11/8z3/8] [=FDB,=G,2Ab2]
+z/2 [FDB,3/8A] [B,5/8z3/8] [G,/2z3/8] B/4 z/8 [b2^GEB,^G,2z3/4] ^g/4
+z/8 [e7/8z3/8] [^GEB,Bz3/4] d/4 z/8 d3/8 [cECA,Ac'2] z/2
+[D/4B,/4=G,A/4] z/8 E/4 z/8 [D/2B,/2A3/8] A/4 z/8 [a/2FCA,F,2A] z/4
+f/2 z/4 [d/2FCA,A] z/4 c/2 z/4 [BG,DB,=Gd3/2] z/2
+[d3/4G,/2C/2A,/2F/2] z/4 [d3/2F5/4G,11/4C11/4C,15/4] z/4
+[c13/4E13/4c'13/4] z/2 [G,/2C/4A,/4F/4] z/8 E/4 z/8 [G,/2A,/2D/2] z/4
+[CG,C,2Ez3/4] [c/4c'/2] z/8 c/4 z/8 [c/4=g/2CG,E] z/8 [B3/4z3/8] e/2
+z/4 [B3/4CA,F,2F] [a/2z3/8] [A5/8z3/8] [f/2CA,Fz3/8] [A3/4z3/8]
+[c/2z3/8] ^F,/4 z/8 [D3/8B,G,2G] [D5/8z3/8] [B/2g/2] z/4 [c/2d/2DB,G]
+z/4 [B/2=F,/2z3/8] A/4 z/8 [A3/8DB,E,2G3/8] [G9/8z3/8] g/2 z/4
+[d/2D/2G,/2G] z/4 [B/2G,/2] z/4 [CA,F,2Fz3/4] [A/4a/2] z/8 A/4 z/8
+[A/2f/2CA,F] z/4 [G/2c/2G,/4] z/8 G,/4 z/8 [G/2CG,A,2E] z/4 [G/2a/2]
+z/4 [Ee/2C3/8G,] [C5/8z3/8] [c/2z3/8] D3/8 [DA,B,5/2^Fz3/4] ^f/2 z/4
+[d/2DA,^F] z/4 [c/2z3/8] B,/4 z/8 [c=fa=D,=F/2C/2] z/4 [C/2z3/8] D3/8
+[dBaG,E/2B,/2] z/4 [D/2A,/2F/2G/2] z/4 [E3/4C3/8G,C,2G3/4] [C5/8z3/8]
+[c3/8G/2E/2] c3/8 [G3/4E3/4c3/8G,C] c3/8 [G/2E/2c/2z3/8] [B5/8z3/8]
+[D3/4A,D,2Gz3/8] B/4 z/8 [A3/8D/2^F/2] A3/8 [D3/4^F3/4A3/4A,3/8]
+[A,5/8z3/8] [D3/8^F/2A/2D,/2] D/4 z/8 [BGDB,D,] z/8 c/4 z/8
+[B3/4A3/8^D^FB,^D,] [A5/8z3/8] B3/8 A3/8 [G3/4EB,E,2] [B/2G/2e/2] z/4
+[B/2G/2e/2G,/4] z/8 B,/4 z/8 [B/2G3/8e/2E/4E,/2] z/8 G/4 z/8
+[A/4CA,F,2=F] z/8 [A/2z3/8] [a/2z3/8] [B7/8z3/8] [f/2CA,F] z/4 c/2
+z/4 [B/4^c/2A/2^F3/4^f/2B,2] z/8 ^d3/8 [^d/2A/2^F/2^f/2] z/4
+[A^F^DB^Cz3/8] e/4 z/8 ^f3/8 e/4 z/8 [e3/4E=DA,E,3/4A3/4]
+[e3/4=d/2A/2a/2E,3/2] z/4 [e3/4d/2A3/4a/2ED] z/4 [e3/2d/2A/2a/2z3/8]
+E,/4 z/8 [E,3/4ED^G,^G3/4] [d/2B/2^G/2e/2E,] z/4
+[d/2B/2^G/2e/2A,/2z3/8] E,/4 z/8 [d/2B/2^G/2e/2E,/2B,/2] z/4
+[e3/2E=CA,F,2A3/2] z/2 [ECA,Az3/4] d/4 z/8 [=f11/8z3/8]
+[=FDB,=G,2AB2] z/2 [F/2B,/2A/2z3/8] =D,/4 z/8 [D/2G,/2z3/8] B/4 z/8
+[b/2^GEB,^G,2B] z/4 ^g/4 z/8 [e7/8z3/8] [^GEB,Bz3/4] d/4 z/8 d3/8
+[=c2ECA,AE,2] z/2 [D/4B,/4=G,A/4] z/8 E/4 z/8 [D/2B,/2A/2] z/4
+[a/2CA,F,5/2Fc2] z/4 f/2 z/4 [d/2CA,F] z/4 [c/2z3/8] ^F,/4 z/8
+[BDB,G,=Gd2] z/2 [A/2CA,G,F] z/4 A3/4 [G2CG,C,2Ee2] z/2 G,/4 z/8 C/4
+z/8 D/4 z/8 E/4 z/8 E,3/4 [^G,/2E/2D/2^G/2E,/2] z/4
+[E/2D/2A,/2^F,/2A/2^F/2] z/4 [E/2D/2B,/2^G,/2B/2^G/2] z/4
+[e3/2ECA,=F,2A] z/2 [ECA,Az3/4] d/4 z/8 [f11/8z3/8] [=FDB,=G,2Ab2]
+z/2 [FDB,Az3/8] D,/4 z/8 [G,/2z3/8] B/4 z/8 [b2^GEB,^G,2z3/4] ^g/4
+z/8 [e7/8z3/8] [^GEB,BE,z3/4] d/4 z/8 d3/8 [cECA,Ac'2] z/2
+[D/4B,/4=G,A/4] z/8 E/4 z/8 [D/2B,/2F/2z3/8] A/4 z/8 [a/2FCA,F,2A]
+z/4 f/2 z/4 [d/2FCA,A] z/4 c/2 z/4 [BDB,G,=Gd] z/2
+[d/2C/2A,/2G,/2F/2C,/2] z/4 [d3/2F5/4C,11/4A,5/4C5/4] z/4
+[c17/4C/2G,/2E/2] z/4 C/2 z/4 G,/2 z/4 [^A,2^D2z3/4] C/2 z/4 G/2 z/4
+C/2 z/4 [^DC/2^G,3/4G] z/4 [^G,5/4z3/4] [Cz3/4] ^G/2 z/4
+[B,/2=G,3/2F3/2] z/4 =A,/2 z/4 [G,z3/4] E/2 z/4 [A4E4c4A,4C3z3/4] e/4
+z/8 e/4 z/8 e/2 z/4 e/4 z/8 f5/8 z/8 e3/4 z3/8 E,/4 z/8 A,/4 z/8 C/4
+z/8 E/4 z/8 [^G4E4=D4B15/4A,4z3/4] e/4 z/8 e/4 z/8 e/2 z/4 e/4 z/8
+[e11/8z9/8] B/4 z/8 ^G5/8 z/8 E/4 z/8 B,/2 z/4 [=G4E4D4^A4G,4z3/4]
+e/4 z/8 e/4 z/8 e3/4 z3/8 e/4 z/8 f/4 z/8 e/4 z/8 e z/8 a3/4 z3/8
+[e/2D4^F4=A3A,7/2^F,3] z/4 d/2 z/4 d/4 z/8 d/4 z/8 d3/8 c3/8
+[A^F,3/4] ^F,/4 z/8 [^F,3/8D,/4] z/8 [^F,/2z3/8] A,/4 z/8 E/2 z/4
+[=F4D3/2A4=F,3/2A,z3/4] d/2 z/4 [d/2A,F,D5/2] z/4 [d/2z3/8] F,/4 z/8
+[e/2G,2B,E] z/4 d/4 z/8 [d7/8z3/8] [A,F,Dz3/4] d/2 z/4 [d/2AFc3/4CA,]
+z/4 c5/8 z/8 [c3/4FAA,C] [c/4C,/2] z/8 c3/8 [GEcCG,C,5/2] z/2
+[B3/8G3/8EcCG,] [G5/8z3/8] [A3/4z3/8] ^C,/4 z/8 [A3/2GEcCA,] z/2
+[B3/8A3/4G3/8EcC] [G5/8z3/8] [A3/4z3/8] A,/4 z/8 [D^FAA,D,2] z/8
+=C,/4 z/8 [D^FAA,3/4B,/4] z/2 [G/2A,/4] z/2 [e9/4B31/8G31/8E3d31/8B,]
+z/2 G,/2 z/4 [f3/4=F/2] z/4 [e9/8B,2^G,2E2] d3/8 [e3/8E,] d3/8
+[c11/4z3/4] [A,3F,3C3] z3/2 [C/4A,/4=G,/2F/4] z/8 E/4 z/8
+[C/2A,/2G,/2D/2] z/4 [CG,C,2EG2z3/4] [c/4c'/2] z/8 [c7/8z3/8]
+[=g/2CG,E] z/4 [c/4e/2] z/8 [B7/8z3/8] [CA,F,2FA9/8z3/4] [B/4a/2] z/8
+A3/8 [Af/2CA,Fz3/8] C,/4 z/8 [c/2F,/2] z/4 [DB,G,GB3/4] [B3/2g/2] z/4
+[c/4d/2DB,F,G] z/8 [A/2z3/8] [B7/4z3/8] A/4 z/8 [A3/8DB,E,5/2G3/8]
+[G9/8z3/8] g/2 z/4 [d/2E/2B,/2G] z/4 [B/2G,/2z3/8] E,/4 z/8
+[CA,F,2Fc9/4z3/4] [A/4a/2] z/8 [A5/8z3/8] [f/2CA,Fz3/8] [A/2z3/8]
+[c7/4z3/8] G/4 z/8 [G/4CG,A,2E] z/8 [G3/4z3/8] a/2 z/4
+[e/2C3/4G,E3/8] [E5/8z3/8] [C/2c/2] z/4 [D3/2A,B,2^Fd3/2z3/4] ^f/2
+z/4 [d5/2D/2A,/2^F/2] z/4 [A/2A,/2] z/4 [c=faD,=F/2C/2] z/4 [C/2D/2]
+z/4 [dBaG,E/2z3/8] D3/8 [F/2D/2A,/2G/2] z/4 [C3/8G,C,2E3/4e]
+[C5/8z3/8] [c3/8G/2E/2] c3/8 [G/2E3/4c3/8CG,] c3/8 [G/2E/2c3/8]
+[c5/8z3/8] [D,2ED3/4A,Gz3/8] B/4 z/8 [A3/8F/2D/2] A/4 z/8
+[D3/4F/2A/2A,3/8^F] [A,5/8z3/8] [G/4=F/2D/2A3/8] z/8 [A/4A,/4] z/8
+[BGdDB,z3/8] e3/4 z3/8 [BGd^DA,z3/8] A/2 z/4 A3/8 [G3/8E3/8B,G,E,2e2]
+E3/8 [G/2E/2B/2] z/4 [G/2E/2B/2G,/4] z/8 B,/4 z/8 [G3/8E/2B/2E,/2]
+[A/4G/4] z/8 [A/2CA,F,2Ff3/2] z/4 [A/4a5/4] z/8 [B7/8z3/8] [f/2CA,F]
+z/4 [c/2z3/8] [B9/8z3/8] [^c/2A3/4^F3/4^f/2^DB,2] z/4
+[^d3/8^c/2A/2^F/2^f/2] ^d3/8 [e/2^f3/4^dBa^F/2] z/4 [^f/4^D/2] z/8
+g3/8 [^f3/8E3/4=DA,E,/2A3/4] [e37/8z3/8] [B/2A/2E3/4=d/2E,5/4] z/4
+[B/2A3/4E3/4d/2D3/8A,] [D5/8z3/8] [B/2A/2E3/4d/2E,5/4] z/4
+[E3/4D^G,^G3/4] [^G/2E/2B/2E,3/4] z/4 [^G3/4E3/4B/2D^G,z3/8] b/4 z/8
+[^G/2E/2B/2F,/2E,/2e/4] z/8 d/4 z/8 [e3/2=c=FAE3/2C] z/2 [cFAeEz3/4]
+d/4 z/8 [=f11/8z3/8] [D3/2FABB,=G,2] z/2 [DFABB,z3/8] D,/4 z/8 G,/2
+z/4 [E3/2^GB3/8B,^G,3/2b3/4] [B5/8z3/8] [b5/4z3/8] ^g/4 z/8
+[e/2^GEBB,^G,] z/4 d/4 z/8 d3/8 [cAeE15/8CA,] z/2 [cA3/4eD/4B,/4=G,]
+z/8 E/4 z/8 [D/2B,/2A/2] z/4 [a/2AF3/2cCA,] z/4 f/2 z/4
+[d/2AFc3/4CA,] z/4 [c/2F,/2z3/8] ^F,/4 z/8 [B=G3/2d3/2DB,G,] z/2
+[A/2BGdCA,] z/4 [A3/2z3/4] [e3/2c=gCG,z3/4] [G7/4z3/4] [ecgG,/4C3/8]
+z/8 [C5/8z3/8] D/4 z/8 E/4 z/8 E,3/4 [B/2^G/2E/2d/2D/2^G,/2] z/4
+[B/2^G/2E/2d/2D/2A,/2] z/4 [B/2^G/2E/2d/2D/2B,/2] z/4
+[e3/2c3/2A3/2FEC] z/2 [cAFeEz3/4] d/4 z/8 f3/8 [fd3/2B3/2aFD] z/2
+[fdBaFz3/8] =F,/4 z/8 =G,/2 z/4 [^GEB3/8B,^G,3/2d2] [B9/8z3/8]
+[b5/4z3/8] ^g/4 z/8 [e/4E^GBB,^G,] z/8 ^g/4 z/8 c'3/8 b3/8
+[ac3/2Ae3/2EC] z/2 [cA3/4eE/4B,/4=G,] z/8 E/4 z/8 [D/2B,/2A3/8] A/4
+z/8 [a/2A3/2Fc3/2CA,] z/4 [f5/4z3/4] [d/2AFc3/4CA,] z/4 c/2 z/4
+[B=GdDB,G,] z/2 [d/2B/2G/2C/2A,/2G,/2] z/4
+[d3/2G3/4B3/4F5/4C,11/4A,5/4] [e/2c/2=g/2] z/4
+[c17/4e7/4g7/4C3/4G,/2E/2] z/4 C/2 z/4 G,/2 z/4 [^A,2^D5/2C3/4]
+[C3/2z3/4] [Gz3/4] C/2 z/4 [^D/2C^G,3/4G3/2] z/4 [^G,5/4z3/4] [Cz3/4]
+^G/2 z/4 [B,=G,3/2F3/2z3/4] =A,/2 z/4 [G,z3/4] E/2 z/4
+[C/2^G,3/4F,2E3/2] z/4 [^G,7/4z3/4] [Cz3/4] F/2 z/4 [B,=G,E] z/2
+[B,/2G,=DF,3/4] z/4 F,/2 z/4 [C,8G,3/2E,/2C9/4E8] z/4 E,/2 z/4
+[G,13/2z3/4] [C23/4z3/4] [e5=G5c5] 

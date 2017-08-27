@@ -1,0 +1,19 @@
+X: 1
+T: downtown-lute (2:48)
+Z: Transcribed using LotRO MIDI Player: http://lotro.acasylum.com/midi
+%  Original file: downtown.mid
+%  Transpose: 1
+L: 1/4
+Q: 120
+K: C
+
+z16 z16 z16 z16 z16 z8 [^g2c'2] [=g2c'2] [^c2^g2] [=gc'] [g^c]
+[^d2^g2] [c'2=g2] [^c2^g2] [=gc'] [g^c] [c'2^g2] [^a2=g2] [f2^c2]
+[gc'] [g^c] [c'2^g2] [f2^c2] [^d2=g2] [^g2^c2] [^d2^g2] [^g2^c2]
+[=g2c'2] [^c2^g2] z16 z16 z16 z16 z4 [^g2c'2] [^a2=g2] [^c2^g2]
+[=gc'] [g^c] [^g2c'2] [=g2c'2] [^a2^c2] [gc'] [g^c] [^g2c'2] [^a2=g2]
+[f2^c2] [gc'] [g^c] [^g2c'2] [^c2^g2] [^d2=g2] [^a2^c2] [^d2^g2]
+[f2^c2] [^d2=g2] [^g2^c2] z16 z16 z16 z16 z4 [^g2c'2] [=g2c'2]
+[^c2^g2] [=gc'] [g^c] [^g2c'2] [=g2c'2] [^c2^g2] [=gc'] [g^c]
+[^g2c'2] [^d2=g2] [^c2^g2] [=gc'] [g^c] [^c2f2] [f2^c2] [c'2^g2]
+[f2^c2] 

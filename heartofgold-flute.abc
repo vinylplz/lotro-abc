@@ -1,0 +1,22 @@
+X: 1
+T: heartofgold-flute (2:25)
+Z: Transcribed using LotRO MIDI Player: http://lotro.acasylum.com/midi
+%  Original file: heartofgold_sib.mid
+%  Transpose: -2
+L: 1/4
+Q: 90
+K: C
+
+z12 z7 d/4 f/4 a/2 [ac'] ^a/4 =a3/4 g f/2 [A5/2c5/2] z c' f d/4 c'3/4
+d c'/2 a5/2 z [c/4f/4] [c/2f/2] [c/4f/4] [a/4c'/4] [a/2c'/2]
+[a/4c'/4] [a/4c'/4] [a/2c'/2] [a/4c'/4] [g^a] [=a/2c'/2] [c5/2f5/2]
+z12 z12 z12 z12 z12 z3 f/2 [f/2c'/2] c'3/2 z3/2 ^a/4 =a3/4 [eg^a]
+[=a/2c'/2] [c5/2f5/2] z [f3/4a3/4] g/4 a [c'/4e/4] [c'3/4f3/4] d/2
+[a/2c'/2f/2] [^a/2d/2] [=a/4c'/4] [f5/4a5/4] [g/2^a/2] [f/2=a/2]
+[f/4a/4] [f/2a/2] [a/4c'/4] [a/2c'/2] [a/4c'/4] [f/2a/2] [f/4a/4]
+[d/2f/2] e/2 [d/2f/2] g/2 f/2 [g/2^a/2] [=a/4c'/4] a5/4 [g/4^a/4]
+f3/4 z12 z12 z12 z12 z12 z3 [c'/4f/4] [c'3/4f3/4] f d/4 c'3/4 f d/4
+c'3/4 d3/4 c'/4 d/2 c'/4 c'5/4 f/4 f3/4 z/2 [f/2c'/2] [c'/2f/2]
+[f/4c'/4] [c'/2f/2] [f/4c'/4] [c/2f/2] [f/4c'/4] [c/2f/2] g/4
+[g/2^a/2] [g/2^a/2] [=a/2c'/2] [f5/2a5/2] z/4 [c'/4e/4] f3/4
+[a/4c'/4] f/2 f/2 c'/2 d/4 c'3/4 d c'/2 a3/2 g/4 f3/4 

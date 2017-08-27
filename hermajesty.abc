@@ -1,0 +1,23 @@
+X: 1
+T: hermajesty (0:25)
+Z: Transcribed using LotRO MIDI Player: http://lotro.acasylum.com/midi
+%  Original file: songs_hermaj.mid
+%  Transpose: 0
+%  Tempo factor: 90%
+L: 1/4
+Q: 90
+K: C
+
+[A,2A2d2^f2D2] [Dz/2] =f/8 z/8 [^f3/8z/4] [^Cz/4] =f/8 z/8 ^f/8 z/8
+^f/8 z/8 [B,b/4] a/8 z/8 =f/4 [e3/8z/4] [A,d/2] A/4 A/4 [E,^f/4] e/8
+z/8 [d3/8z/4] B/4 [A,e/2] ^c/4 [d3/4z/4] D/2 A,/2 B,/2 ^C/2 [Dz/2]
+=f/8 z/8 [^f/2z/4] [^Cz/4] ^f/4 ^f/8 z/8 ^f/8 z/8 [B,b/4] a/4 ^f/8
+z/8 e/8 z/8 [A,d/2] A/8 z/8 A/8 z/8 [E,z/8] ^f/8 ^f/4 d/4 z/8
+[^f3/8z/8] [E,z/4] d/4 [e3/4z/2] A,3/4 [A,3/4A5/8] z5/8 [B,z/4] A/4
+^f/8 z/8 ^f/4 [^f/4^F,] ^f/4 ^f/4 [^f/2z/4] [B,z/4] ^f/4 ^f/4 ^f/4
+^F,/4 ^F,/4 [B,/4e/4] e/4 [D^f/8] z/8 ^f/8 z/8 ^f/8 z/8 ^f/8 z/8
+[b/4D] a/8 z/8 ^f/4 e/4 [G,d9/8] G, F/8 [G7/8z3/8] ^c/4 ^c/8 z/8
+[B/4G3/4] ^A/4 B/8 z/8 ^c/8 z/8 [D3/4d/8] z/8 d/8 z/8 [d/2z/4] =C/4
+[B,3/4=f/4] ^f/4 B/4 [g/2z/4] [E,z/4] g/8 z/8 g/8 z/8 g/4 [A,3/4^f/4]
+^f/2 [d/2z/4] [D/2z/4] [^f/2z/4] D/4 [B/2B,] z3/8 B/4 z/8 [^f/4E,]
+^f/4 g/4 ^g/4 [A,3/4a3/8] ^f/4 [dz3/8] D/2 A,/2 

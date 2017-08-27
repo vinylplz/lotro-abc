@@ -1,0 +1,66 @@
+X: 1
+T: while my guitar gently weeps [trio-lute] (4:32)
+Z: Transcribed using LotRO MIDI Player: http://lotro.acasylum.com/midi
+%  Original file: the_beatles-while_my_guitar_gently_weeps.mid
+%  Transpose: -12
+L: 1/4
+Q: 90
+K: C
+
+z12 z12 z3/8 e5/8 z/8 [A3/8^f3/8] [B/2^g/2] z/4 ^g/4 z/2 A,/2 z/4 A/4
+z/2 A/4 z/8 A,/4 z/8 A/2 z/4 G,3/4 z3/8 e5/8 z/8 c7/8 z/4 ^F, z/2 c/2
+z/4 e/2 z/4 =F,3/4 z3/8 E/4 z/8 A/4 z/8 c/4 z/8 e/2 z/4 [A,2E2A2] z
+G,/2 z/4 B,/4 z/8 G11/8 z2 c'/4 z/8 c'/4 z/8 c'3/8 a/4 z/8 ^g/4 z/8
+^g/4 z/8 a3/8 ^g/4 z/8 e/4 z/2 e/2 z/4 a/2 z/4 [A/2z3/8] c3/8 A3 z
+D/8 ^F/4 B/8 [D/2^F/2A/2c/2] z/4 [D/2^F/2A/2c/2] z13/4 [A/4a/4] z/8
+[A/4a/4] z/8 [A/2a/2] z/4 [A/4a/4] z/8 [A/4a/4] z/8 [Aa] z/8 A7/8 z/4
+G2 z11/8 d3/8 e15/8 d/4 z/8 d3/8 e5/8 z/8 a5/8 z/8 =g/4 z/8 e3/8 d/4
+z/8 ^c5/2 z5 A/2 z/4 ^f/2 z5/8 ^G/4 z/8 ^c/4 z/8 e/4 z/8 ^G/2 z/4 B/2
+z/4 B/2 z/4 d/2 z/4 ^f/2 z/4 ^F/2 z/4 B/2 z/4 ^f/2 z/4 d/2 z/4 B/2
+z/4 e/4 z/8 e5/8 z/8 d3/8 e/4 z/8 B/4 z/8 b/4 z/8 B/4 z/8 ^g/4 z/8
+B/4 z/8 ^f/4 z/8 A/4 z/8 e/4 z/8 ^G/4 z/8 d/4 z/8 A/4 z13/8 B3/8 ^c/4
+z/8 e/2 z5/8 ^c/4 z/8 ^G/4 z/8 ^c/4 z/8 e/2 z/4 ^g/2 z/4 A/4 z/8 ^f/4
+z/8 A/2 z/4 ^f/2 z/4 A/2 z/4 ^G/2 z/4 ^c/2 z/4 e/2 z/4 ^c/2 z/4 B,/2
+z/4 d/2 z/4 B/2 z/4 ^F/2 z5/8 B5/8 z/8 B/4 z/8 B/2 z/4 B3/8 A/4 z5/4
+b3/8 [^c/4e/4] z/8 ^c/4 z/8 b z/8 ^g/4 z/8 e/4 z/8 b/4 z/8 ^g/4 ^f/8
+e/4 z/8 ^c/4 B/8 A/4 z/8 A/2 z/4 [=c/4e/4a/4] z/2 [c/4e/4a/4] z/2
+[c/4e/4a/4] z/2 =G2 z ^F z/2 e/2 z/4 c7/4 z5/4 =F/4 z/8 G/4 z/8 A2
+z17/8 G11/8 z2 d3/8 e/4 z/8 e/4 z/8 a/4 z/8 e/4 e/8 a7/8 z/4 c'11/8
+z/8 a11/4 z19/4 A/4 z/8 c9/8 d/4 z13/8 e3/4 d/4 z/8 A2 z G z/2 B z/2
+c z5/4 c'3/8 a/4 z/2 =g3/8 a3/8 c'/4 z/8 c'3/8 ^c/4 z/8 d/4 z/8 e/8
+z/4 c'/2 z/4 a7/4 z/2 g/4 z/8 a3/8 c'/2 z/4 c'15/4 a3/4 g/4 z/8 a3/8
+[c'/2z3/8] a3/8 c'3 a/2 z/4 g/4 z/8 a3/8 c'/2 z/4 d3/8 e/4 z/8 d3/8
+c'/4 z/8 d/4 e z/4 g/4 z/8 e3/8 d/2 z/4 d/2 z/4 [c'/2z3/8] g3/8
+[a3/4z3/8] g3/8 a/2 z/4 [a/2z3/8] g3/8 a z/2 a3/8 g5/8 g/8 a9/8 g/4
+z/8 e/4 z/8 d3/8 e/4 z/8 g/4 z/8 e3/8 d/2 z/4 c'3/8 d3/8 e/4 z/8 g/4
+z/8 e3/8 d/4 z/8 c' z/2 c'3/8 a/4 z/8 g/4 z/8 a3/8 c'3/4 c'3/8 a/4
+z/8 d3/8 e/4 z/8 g/4 z/8 e3/8 d3/8 =c/4 z/8 d/2 z/4 c3/8 d/4 z/8 c/4
+z/2 d3/8 d/4 z/8 g3/8 a/4 z/8 a3/8 c'/4 z/8 c'3/8 d/4 z/8 d3/8 e/4
+z/8 e/4 z/8 a/4 z/8 g3/8 a/4 z/8 a3/8 g/4 z/8 [^c5/2a2] z11/2 A/2 z/4
+^f/2 z5/8 ^G/4 z/8 ^c/4 z/8 e/4 z/8 ^G/2 z/4 B/2 z/4 B/2 z/4 d/2 z/4
+^f/2 z/4 ^F/2 z/4 B/2 z/4 ^f/2 z/4 d/2 z/4 B/2 z/4 e/4 z/8 e5/8 z/8
+d3/8 e/4 z/8 B/4 z/8 b/4 z/8 B/4 z/8 ^g/4 z/8 B/4 z/8 ^f/4 z/8 A/4
+z/8 e/4 z/8 ^G/4 z/8 d/4 z/8 A/4 z13/8 B3/8 ^c/4 z/8 e/2 z5/8 ^c/4
+z/8 ^G/4 z/8 ^c/4 z/8 e/2 z/4 ^g/2 z/4 A/4 z/8 ^f/4 z/8 A/2 z/4 ^f/2
+z/4 A/2 z/4 ^G/2 z/4 ^c/2 z/4 e/2 z/4 ^c/2 z/4 B,/2 z/4 d/2 z/4 B/2
+z/4 ^F/2 z5/8 B5/8 z/8 B/4 z/8 B/2 z/4 B3/8 A/4 z5/4 b3/8 [^c/4e/4]
+z/8 ^c/4 z/8 b3/4 b/4 z/8 ^g/4 z/8 e/4 z/8 b/4 z/8 ^g/4 ^f/8 e/4 z/8
+^c/4 B/8 A/4 z/8 A/2 z/4 [=c/4e/4a/4] z/2 [c/4e/4a/4] z/2 [c/4e/4a/4]
+z/2 =G2 z ^F z/2 e/2 z/4 c7/4 z5/4 =F/4 z/8 G/4 z/8 A2 z17/8 G11/8
+z5/4 =g/4 z/8 a/4 z/8 c'/2 z/4 c'5/8 a/8 ^g/4 z/8 a/4 z/8 a/2 z/4
+a3/8 ^g/4 z/8 e/4 d3/8 z/8 c2 z12 z19/4 d/4 e z/4 d3/8 e7/8 z/4 d/4
+e5/2 z/4 d3/8 e7/8 z/4 d/8 z/8 e z/4 d/4 e z/4 d/4 e z/4 d/4 e z/8
+d/8 e5/4 z/8 d/8 e5/4 z/4 d/4 e z/4 d/4 e z/4 d/4 e z/4 =g/4 a z/4
+g/4 a3/8 d/8 e/2 z/4 a/4 z/8 e5/8 z/8 a/4 z/8 e/4 z/8 c'3/8 d/2 z/4
+c'/2 z/4 a/4 z/8 e/4 z/8 e3/8 d/4 z/8 c3/2 z3/4 G/4 z/8 A/4 z/8 c3/2
+z9/8 [c9/8z/2] d/8 [e/8=f/8] g/8 a/8 [b/8c'/8] c'/4 z5/4 c'/4 d3/2
+z/2 d3/8 c'/4 z/8 d3/8 c'/4 z/8 d3/4 c'3/2 c'/4 z/8 a/4 z/8 c'/4 z/8
+c'/4 z/8 a/4 z/8 a/4 z/8 a3/8 c'/4 z/8 c'5/4 z/4 c'/2 z/4 c'3/8 d/4
+z/8 d3/8 e5/8 z/8 a/4 z/8 e/4 z/8 g/4 c'/8 e3/8 d/4 z/8 c'/2 z11/4
+g/8 a7/8 z/4 a3/2 z5/8 g/8 a7/4 z/2 g/4 z/8 a/4 z/8 a2 z g3/8 a3/8
+a3/8 g/4 a5/4 g/4 z/8 d3/8 e7/8 z/4 e/8 z/4 g/4 z/8 a/4 z/8 g/4 z/8
+a/4 z/2 d/4 d/8 e5/8 z/8 e/4 z/8 a/4 z/8 g/4 d/8 e3/8 d/4 z/8 c'/4
+z/8 d/4 z/8 g3/8 a/4 z/8 c'/4 z/8 a/4 z/8 A,/2 z/4 A7/4 z/2 A3/8 c7/8
+z/4 c3/8 d/4 z/8 d3/8 c/4 d/8 e z/2 e/4 z/8 g/4 z/8 e3/8 d/4 z/8 c3/2
+z3/4 d3/8 e3/8 d/2 z/4 e/4 z/8 g/4 d/8 e3/8 d/4 z/8 c/4 z/8 d/4 z/8
+d3/8 e3/8 e/2 z/4 d/4 z/8 c/4 z/8 d/4 z/8 G/4 z/8 c/4 z/8 d7/8 z/4 d 
