@@ -109,10 +109,11 @@ G,- G,// z3/4 D z G,// z// +mf+ G,// z// +f+ G,// z// D// z// +ff+ ^A,/ z/ +f+ G
 % Bar 70 (3:43)
 +f+ d// z// +ff+ c// z// +f+ [G//^A//d//] z// +mf+ G// z// +ff+ d// z3/4 [G//A//d//] z7/4 [G//A//d//] z7/4 [G3/4A3/4-d3/4-] [A//d//] |
 z [c//^d//g//] z7/4 +f+ [c//d//g//] z7/4 +ff+ [c//d//g//] z7/4 [cdg] |
-z [G//^A//d//] z7/4 [G//A//d//] z7/4 [G//A//d//] z7/4 [G3/4Ad] |]
+z [G//^A//d//] z7/4 [G//A//d//] z7/4 [G//A//d//] z7/4 [G3/4A3/4-d3/4-] [A//d//] |
+z8 |]
 
 
-X: 3
+X: 2
 T: dub nurse (3:54) - Theorbo
 %%part-name Theorbo
 C: dubsayers
@@ -198,10 +199,11 @@ z8 |
 % Bar 70 (3:43)
 z8 |
 z8 |
+z8 |
 z8 |]
 
 
-X: 8
+X: 3
 T: dub nurse (3:54) - Drums
 %%part-name Drums
 C: dubsayers
@@ -457,5 +459,6 @@ K: C maj
 +fff+ [C,//-^F,//-^A,//-^D//] [C,//F,//A,//] +ff+ [E,/F,/] +fff+ [C,//-^D,//^G,//-A,//-D//a//-] [C,//G,//A,//a//] +f+ D,/ +fff+ [E,//-F,//-A,//D//] [E,//F,//]
 	+f+ [F,/A,/D/] +fff+ [D,//G,//-^c//-^d//-a//-] [G,//c//d//a//] +ff+ [D,/d/] +fff+ [C,/F,/A,/D/] +pppp+ F,/ +fff+ [D,//G,//-A,//-D//a//-] [G,//A,//a//] +f+
 	[D,/a/] +fff+ [E,//-F,//-A,//D//] [E,//F,//] +pppp+ F,//- +pp+ [F,//D//] +fff+ [D,//A,//-D//c//d//a//-] [A,//a//] +ff+ [D,//-=G,//-D//a//-] +f+
-	[D,//G,//A,//a//] |]
+	[D,//G,//A,//a//] |
+z8 |]
 
