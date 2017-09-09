@@ -8,7 +8,7 @@ X: 1
 T: freedom street (1:57) - Lute of Ages
 %%part-name Lute of Ages
 M: 4/4
-Q: 66
+Q: 58
 K: C maj
 
 +f+ G/- +mp+ [G/-d/g/-b/] [G//g//] z// +mf+ [D//-d//g//b//] D// z/ +mp+ [B,//d//-g//-b//-] [d//g//b//] G,/- +p+ [G,//-d//g//b//] G,// z/ [d/g/b/] z/ +mp+
@@ -84,43 +84,43 @@ X: 4
 T: freedom street (1:57) - Flute
 %%part-name Flute
 M: 4/4
-Q: 66
+Q: 58
 K: C maj
 
 +mf+ z8 |
 z8 |
 z8 |
 z8 |
-E- +mp+ [D//-E//] D/ z// D/- +p+ [B,//-D//] B,5/4 z2 z3/2 +mf+ E/- |
-E +mp+ D/ z/ D/- +p+ [A,//-D//] A,3/4 z4 E/- |
+E- +mp+ [D//-E//] D/ z// D/- +p+ [B,//-D//] B,//- B, z2 z3/2 +mf+ E/- |
+E +mp+ D/ z/ D/- +p+ [A,//-D//] A,//- A,/ z/ z2 z3/2 E/- |
 E D/ +mp+ B,/ z// +pp+ D/ z// D3/4 z13/4 +f+ D// z// +mp+ F/- |
-F3/4 +mf+ E3/4 +mp+ D// z// +mf+ D/- +mp+ [A,//-D//] A,7/4 z5/2 +mf+ D3/4 +mp+ G//- |
-G// z/ G/ z// G/- +mf+ [D//-G//] D5/4 z7/2 D/- +p+ [D//E//-] E//- |
+F3/4 +mf+ E3/4 +mp+ D// z// +mf+ D/- +mp+ [A,//-D//] A,//- A,3/2 z/ z z +mf+ D3/4 +mp+ G//- |
+G// z/ G/ z// G/- +mf+ [D//-G//] D5/4 z/ z3 D/- +p+ [D//E//-] E//- |
 % Bar 10 (0:32)
-E/ +mp+ D +p+ C/ +pppp+ A,2 z z3/4 +mf+ D/ z// +mp+ D/ +pp+ E/ +p+ ^F// z// |
+E/ +mp+ D/- D/ +p+ C/ +pppp+ A,2 z z3/4 +mf+ D/ z// +mp+ D/ +pp+ E/ +p+ ^F// z// |
 +mp+ G// z// G// z// G// z// G// z// D- D// z9/4 +mf+ D3/4 z/ D//- +mp+ [D//E//-] E// +p+ D// z// |
-+mp+ D/ z/ D3/4 z// A,3/2 z2 E D// z// D/ +p+ B,/ |
-+f+ D// z// +mp+ D// z// D3/4 z// +mf+ E3/2 z// +pp+ D/ z// +mp+ D3/4 z// E D// z// +mf+ D3/4 z// |
++mp+ D/ z/ D3/4 z// A,3/2 z/ z3/2 E/- E/ D// z// D/ +p+ B,/ |
++f+ D// z// +mp+ D// z// D3/4 z// +mf+ E3/2 z// +pp+ D/ z// +mp+ D3/4 z// E/- E/ D// z// +mf+ D3/4 z// |
 +mp+ D3/4 z// D3/4 z// +p+ A, z z4 |
-+mf+ E- +mp+ [D//-E//] D/ z// D/- +p+ [B,//-D//] B,5/4 z2 z3/2 +mf+ E/- |
-E +mp+ D/ z/ D/- +p+ [A,//-D//] A,3/4 z4 E/- |
++mf+ E- +mp+ [D//-E//] D/ z// D/- +p+ [B,//-D//] B,//- B, z2 z3/2 +mf+ E/- |
+E +mp+ D/ z/ D/- +p+ [A,//-D//] A,//- A,/ z/ z2 z3/2 E/- |
 E D/ +mp+ B,/ z// +pp+ D/ z// D3/4 z13/4 +f+ D// z// +mp+ F/- |
-F3/4 +mf+ E3/4 +mp+ D// z// +mf+ D/- +mp+ [A,//-D//] A,7/4 z5/2 +mf+ D3/4 +mp+ G//- |
-G// z/ G/ z// G/- +mf+ [D//-G//] D5/4 z7/2 D/- +p+ [D//E//-] E//- |
+F3/4 +mf+ E3/4 +mp+ D// z// +mf+ D/- +mp+ [A,//-D//] A,//- A,3/2 z/ z z +mf+ D3/4 +mp+ G//- |
+G// z/ G/ z// G/- +mf+ [D//-G//] D5/4 z/ z3 D/- +p+ [D//E//-] E//- |
 % Bar 20 (1:09)
-E/ +mp+ D +p+ C/ +pppp+ A,2 z z3/4 +mf+ D/ z// +mp+ D/ +pp+ E/ +p+ ^F// z// |
+E/ +mp+ D/- D/ +p+ C/ +pppp+ A,2 z z3/4 +mf+ D/ z// +mp+ D/ +pp+ E/ +p+ ^F// z// |
 +mp+ G// z// G// z// G// z// G// z// D- D// z9/4 +mf+ D3/4 z/ D//- +mp+ [D//E//-] E// +p+ D// z// |
-+mp+ D/ z/ D3/4 z// A,3/2 z2 E D// z// D/ +p+ B,/ |
-+f+ D// z// +mp+ D// z// D3/4 z// +mf+ E3/2 z// +pp+ D/ z// +mp+ D3/4 z// E D// z// +mf+ D3/4 z// |
-+mp+ D3/4 z// D3/4 z// +p+ A, z z3/2 +mp+ E D// z// D/ +p+ B,/ |
-+f+ D// z// +mp+ D// z// D3/4 z// +mf+ E3/2 z// +pp+ D/ z// +mp+ D3/4 z// E D// z// +mf+ D3/4 z// |
-+mp+ D3/4 z// D3/4 z// +p+ A, z z3/2 +mp+ E D// z// D/ +p+ B,/ |
-+f+ D// z// +mp+ D// z// D3/4 z// +mf+ E3/2 z// +pp+ D/ z// +mp+ D3/4 z// E D// z// +mf+ D3/4 z// |
-+mp+ D3/4 z// D3/4 z// +p+ A, z z3/2 +mp+ E D// z// D/ +p+ B,/ |
-+f+ D// z// +mp+ D// z// D3/4 z// +mf+ E3/2 z// +pp+ D/ z// +mp+ D3/4 z// E D// z// +mf+ D3/4 z// |
++mp+ D/ z/ D3/4 z// A,3/2 z/ z3/2 E/- E/ D// z// D/ +p+ B,/ |
++f+ D// z// +mp+ D// z// D3/4 z// +mf+ E3/2 z// +pp+ D/ z// +mp+ D3/4 z// E/- E/ D// z// +mf+ D3/4 z// |
++mp+ D3/4 z// D3/4 z// +p+ A, z z3/2 +mp+ E/- E/ D// z// D/ +p+ B,/ |
++f+ D// z// +mp+ D// z// D3/4 z// +mf+ E3/2 z// +pp+ D/ z// +mp+ D3/4 z// E/- E/ D// z// +mf+ D3/4 z// |
++mp+ D3/4 z// D3/4 z// +p+ A, z z3/2 +mp+ E/- E/ D// z// D/ +p+ B,/ |
++f+ D// z// +mp+ D// z// D3/4 z// +mf+ E3/2 z// +pp+ D/ z// +mp+ D3/4 z// E/- E/ D// z// +mf+ D3/4 z// |
++mp+ D3/4 z// D3/4 z// +p+ A, z z3/2 +mp+ E/- E/ D// z// D/ +p+ B,/ |
++f+ D// z// +mp+ D// z// D3/4 z// +mf+ E3/2 z// +pp+ D/ z// +mp+ D3/4 z// E/- E/ D// z// +mf+ D3/4 z// |
 % Bar 30 (1:45)
-+mp+ D3/4 z// D3/4 z// +p+ A, z z3/2 +mp+ E D// z// D/ +p+ B,/ |
-+f+ D// z// +mp+ D// z// D3/4 z// +mf+ E3/2 z// +pp+ D/ z// +mp+ D3/4 z// E D// z// +mf+ D3/4 z// |
++mp+ D3/4 z// D3/4 z// +p+ A, z z3/2 +mp+ E/- E/ D// z// D/ +p+ B,/ |
++f+ D// z// +mp+ D// z// D3/4 z// +mf+ E3/2 z// +pp+ D/ z// +mp+ D3/4 z// E/- E/ D// z// +mf+ D3/4 z// |
 +mp+ D3/4 z// D3/4 z// +p+ A, z z4 |]
 
 
@@ -128,7 +128,7 @@ X: 8
 T: freedom street (1:57) - Drums
 %%part-name Drums
 M: 4/4
-Q: 66
+Q: 58
 K: C maj
 
 +f+ ^F,// z// +ppp+ F,// z// +f+ F,// z// +ppp+ F,// z// +f+ [C,//-^C,//-F,//] [=C,//-^C,//] +ppp+ [=C,//-F,//] C,// +f+ F,// z// +ppp+ F,// z// +f+ F,// z//
